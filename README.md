@@ -1,5 +1,5 @@
-# 👨‍⚕️ Dr. Suyash Pandit
-## Medical Doctor | Data Analytics Enthusiast | AI & Machine Learning Explorer
+# 👨‍⚕️Suyash Pandit
+## Data Analytics Enthusiast | AI & Machine Learning Explorer  |Medical Doctor 
 
 Welcome to my GitHub repository! I’m a medical doctor with a growing passion for the transformative potential of data science, artificial intelligence (AI), and machine learning (ML) in healthcare and financial decision-making.
 
