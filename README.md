@@ -26,19 +26,13 @@ I hold an MBBS degree and have clinical experience in family medicine. Currently
 
 ---
 
-## 📂 Repository Contents
-| File/Folder | Description |
-|-------------|-------------|
-| `ABOUT_ME.md` | Detailed background about my journey, education, and motivation |
-| `PROJECTS.md` | Summaries and links to selected projects |
-| `CV/` | Resume and documents |
-| `notebooks/` | Jupyter notebooks on medical and financial ML applications |
-| `datasets/` | Sample data used in demo projects |
-| `MEDIA/` | Profile photo or related images |
-| `LICENSE` | MIT License for open sharing |
-| `.gitignore` | Git settings and exclusions |
+My mission is to blend clinical insights with computational tools to create meaningful, data-driven impacts in both medicine and finance.
 
----
+## 📌 Goals:
+- Transition into a Clinical Data Science or AI role
+- Build ML models that assist diagnostic and financial decisions
+- Contribute to open-source health and finance projects
+
 
 ## 📫 Contact
 - 📧 suyashpandit@gmail.com
