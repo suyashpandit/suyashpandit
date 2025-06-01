@@ -44,7 +44,7 @@ My mission is to blend clinical insights with computational tools to create mean
 ---
  
 ### 📢 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyash-pandit-bb2597330/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyash-pandit-bb2597330/)
 
 📫 **Email:** suyashpandit@gmail.com  
  
