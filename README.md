@@ -6,7 +6,7 @@ Welcome! I'm Suyash — deeply interested in data analytics, artificial intellig
 
 ---
 
-## 🔍 About Me
+## 🔍 Get to know me:
 I’m currently building skills in data science and ML to solve real-world problems from predictive analytics to intelligent automation. My background in clinical medicine gives me a systems-level perspective, especially in data interpretation and outcome-based thinking.
 
 ---
