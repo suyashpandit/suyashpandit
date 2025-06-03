@@ -41,7 +41,7 @@ My goal is to build tools and insights that blend human expertise with machine i
 
 ---
  
-### 📢 Connect with Me
+### 📢 Connect with me here:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyash-pandit-bb2597330/)
 
 📫 **Email:** suyashpandit@gmail.com  
