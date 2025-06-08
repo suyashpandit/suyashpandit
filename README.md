@@ -17,6 +17,7 @@ I’m currently building skills in data science and ML to solve real-world probl
 - Supervised & Unsupervised ML models
 - AI applications in real-world problem-solving
 - Financial and operational analytics
+- AWS Cloud Practitioner Certification
 
 ---
 ## 🧠 What fascinates me on a daily basis:
