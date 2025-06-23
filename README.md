@@ -1,7 +1,7 @@
 # 👨‍⚕️Suyash Pandit
 ## Data Analytics & AI Enthusiast | Machine Learning Explorer | Systems Thinker
 
-Welcome! I'm Suyash — deeply interested in data analytics, artificial intelligence (AI), and machine learning (ML), and how these tools shape smarter, more impactful decisions across industries.
+Welcome! I'm Suyash — deeply interested in data analytics, artificial intelligence (AI), and machine learning (ML), and how these tools shape smarter, more impactful decisions across industries, preferably medicine.
 
 
 ---
