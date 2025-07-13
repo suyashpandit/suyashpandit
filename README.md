@@ -32,20 +32,20 @@ I’m currently building skills in data science and ML to solve real-world probl
 My goal is to build tools and insights that blend human expertise with machine intelligence — in healthcare, finance, and beyond.
 
 ## 🚀 I am grinding daily to make myself better so that I can:
-- Transition into a data science or AI role focused on practical impact
+- Approach data with the same way I once approached patients: Curiosity, Clarity and Clinical Precision. 
 - Develop ML models that support diagnostic and economic decisions
 - Contribute to meaningful open-source projects in healthtech and fintech
 
 ---
 ## 📫 Feel free to reach me at:
-- 📧 suyashpandit@gmail.com
+- 📧 pandit.suyashpandit@gmail.com
 
 ---
  
 ### 📢 Connect with me here:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyash-pandit-bb2597330/)
-
-📫 **Email:** suyashpandit@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/suyashpandit/)
+]
+📫 **Email:** pandit.suyashpandit@gmail.com  
  
 ---
  
